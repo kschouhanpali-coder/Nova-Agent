@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-anthropic
-pydantic
-python-dotenv
-google-generativeai
-streamlit
