@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
 
 # 🤖 NovaAgent Dashboard
 
@@ -36,8 +36,7 @@ Deploy a suite of specialized AI agents that plan, analyze, learn, and execute �
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [FAQ](#-faq)
-- [Support](#-support)
-- [Acknowledgments](#-acknowledgments)
+- [Credits & Contact](#-credits--contact)
 
 ---
 
@@ -382,25 +381,44 @@ Yes! Follow the installation steps above to run it on your own machine.
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-1. Check existing issues on GitHub
-2. Create a new issue with a detailed description
-3. Email: support@novaagent.dev
-4. Visit the [live demo](https://nova-agent-iayjoag9muyfjsruawenmh.streamlit.app)
-
----
-
-## 🙏 Acknowledgments
-
-This project draws inspiration from the broader public thinking and strategic direction associated with leaders across the AI industry, spanning AI safety, AGI strategy, scientific AI research, vernacular and sovereign AI, and bootstrapped SaaS growth.
-
----
+## 👤 Credits & Contact
 
 <div align="center">
 
+🤖
+
+### Built by [Your Name](https://github.com/your-username)
+
+*"Your AI agents, ready to work."*
+
+</div>
+
+<br/>
+
+> 📬 **Get in touch** — reach out on [GitHub](https://github.com/your-username), [X / Twitter](https://twitter.com/your-username), or via [email](mailto:support@novaagent.dev).
+>
+> 🐛 **Found a bug?** [Open an issue](https://github.com/your-username/novaagent/issues) with a detailed description and I'll take a look.
+>
+> 💡 **Have an idea for a new agent persona?** [Start a discussion](https://github.com/your-username/novaagent/discussions) — I'd love to hear it.
+>
+> ⭐ **Finding NovaAgent useful?** A star on the repo helps others discover it too.
+
+<br/>
+
+NovaAgent is built on **Streamlit**, powered by **Google Gemini** with **Groq (Llama 3)** as a fallback engine, and its agent personas draw inspiration from the publicly known thinking and strategic direction of leaders across the AI industry — not verified or endorsed statements from those individuals.
+
+<div align="center">
+
+<br/>
+
+<sub>⭐ If NovaAgent's agents put in good work for you, consider giving it a star.</sub>
+
+<br/>
+
 **Version 1.0.0** · Status: ✅ Active & Maintained
+
+<br/>
+
+**[⬆ Back to top](#top)**
 
 </div>
